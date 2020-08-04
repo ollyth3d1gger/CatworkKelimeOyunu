@@ -33,6 +33,12 @@ Catwork Remix Engineers adından yola çıkarak ve tv2'deki kelime oyunu format�
    
    php artisan config:clear
    
+## Kullanıcı Adı-Parola
+
+Kullanıcı: admin@catwork.test
+
+Parla: password
+
 ## İletişim
 
 Problem ya da güvenlik zafiyetleri için mail adresi:thedigger3@protonmail.com
