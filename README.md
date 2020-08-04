@@ -37,7 +37,7 @@ Catwork Remix Engineers adından yola çıkarak ve tv2'deki kelime oyunu format�
 
 Kullanıcı: admin@catwork.test
 
-Parla: password
+Parola: password
 
 ## İletişim
 
