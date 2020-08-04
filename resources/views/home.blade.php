@@ -89,7 +89,7 @@
 
                   <li><a href="{{ route('login') }}" title="Login">Giriş Yap</a></li>
                   <li><a href="{{ route('register') }}" title="Register">Kaydol</a></li>
-                  <li><a href="{{ "https://forrestsec.site/kurslar"}}" title="Kurslar">Kurslar</a></li>
+                  
 
               @else
                   <li class="dropdown">
